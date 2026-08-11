@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "First time",
+  "license": "MIT",
+  "author": "@osssghoul",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
